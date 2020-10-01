@@ -1,6 +1,6 @@
 {
   "name": "basic-read-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "To read config json",
   "main": "index.js",
   "scripts": {
